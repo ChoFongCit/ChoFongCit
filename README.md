@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChoFongCit
-- 👀 I’m interested in Game Dev
-- 🌱 I’m currently learning Software dev 2nd year
+- 👀 I’m interested in learning more python rn
+- 🌱 I’m currently in Software Dev 3nd year @ Munster Technological University
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me cho.leong@mycit.ie
 - 😄 Pronouns: ...
